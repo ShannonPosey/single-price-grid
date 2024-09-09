@@ -1,0 +1,84 @@
+body {
+    background-color: #f2f2f2;
+margin-top: 150px;
+font-family: "Karla", sans-serif;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    background-color: #fff;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.top-container {
+    padding: 20px 0px 5px 20px;
+}
+
+.join {
+    color: #2ab3b1;
+}
+
+.guarantee {
+    color: #c0df33;
+}
+
+.top-para {
+    color: #e5eff5;
+    font-weight: 700;
+}
+
+.bottom-container {
+    display: flex;
+}
+
+.left-container {
+    background-color: #2ab3b1;
+    border-bottom-left-radius: 10px;
+    color: #e5eff5;
+    width: 50vw;
+    padding-left: 15px;
+}
+
+.dollar {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.per-month {
+    font-weight: lighter;
+}
+
+.btn {
+    background-color: #c0df33;
+    border-radius: 5px;
+    color: #e5eff5;
+    font-weight: 700;
+    padding: 15px 80px;
+    text-align: center;
+}
+
+.right-container {
+    width: 50vw;
+    background-color: #4bbebc;
+    padding-left: 25px;
+    /*   color: hsl(204, 43%, 93%); */
+    color: #e5eff5;
+    font-weight: 400;
+    border-bottom-right-radius: 10px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 375px) {
+
+}
